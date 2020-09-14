@@ -14,4 +14,3 @@ Your task is to create a "Mad Libs" style story. For those of you unfamiliar wit
 
 
 
-
